@@ -6,7 +6,7 @@ SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / H
 
 - 🌱 Estoy aprendiendo TYPESCRIPT 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JIB2017)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-ignacio-blacutt-full-stack-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/juanignacio.blacutt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JuanBlacutt2)  
 
 <h1> PERSONAL PROJECTS </h1>
 <h2> FOOD API</h2>
@@ -21,4 +21,4 @@ SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / H
 
 
 <h3> You can contact me in</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JIB2017)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-ignacio-blacutt-full-stack-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/juanignacio.blacutt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JuanBlacutt2)  
+
