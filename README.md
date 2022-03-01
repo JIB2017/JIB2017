@@ -16,4 +16,4 @@ Habilidades: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIP
 
 <h1> PROYECTO FOOD API </h1>
 
-[ah](https://media-exp1.licdn.com/dms/image/C4D2DAQEKo9rm_LyZ_A/profile-treasury-image-shrink_800_800/0/1646156291539?e=1646247600&v=beta&t=BmYC943_FQzZo8U8hVXiEZOiSXVmRb3KZyj298of_F8)
+![ah](https://media-exp1.licdn.com/dms/image/C4D2DAQEKo9rm_LyZ_A/profile-treasury-image-shrink_800_800/0/1646156291539?e=1646247600&v=beta&t=BmYC943_FQzZo8U8hVXiEZOiSXVmRb3KZyj298of_F8)
