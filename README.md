@@ -1,5 +1,5 @@
 
-### Hola 👋, I'm Juan Ignacio
+### Hi 👋, I'm Juan Ignacio
 #### I'm a Full-Stack Web Developer
 
 SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / HTML / CSS
