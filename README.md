@@ -4,7 +4,7 @@
 
 SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / HTML / CSS
 
-- 🌱 Estoy aprendiendo TYPESCRIPT 
+- 🌱 Learning: TYPESCRIPT 
 
 
 
