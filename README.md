@@ -1,7 +1,7 @@
 
 ### Hola 👋, soy Juan Ignacio
 #### Soy desarrollador Web Full-Stack
-![Soy desarrollador Web Full-Stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy desarrollador Web Full-Stack](https://media-exp1.licdn.com/dms/image/C4D2DAQEKo9rm_LyZ_A/profile-treasury-image-shrink_800_800/0/1646156291539?e=1646247600&v=beta&t=BmYC943_FQzZo8U8hVXiEZOiSXVmRb3KZyj298of_F8)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
