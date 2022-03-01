@@ -14,19 +14,14 @@ SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / H
 <h1> PERSONAL PROJECTS </h1>
 <h2> FOOD API</h2>
 
-[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274289642_2526766970790749_1734874302885040430_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=RZly5wg5qmMAX_eTKpc&_nc_ht=scontent.faep8-2.fna&oh=00_AT-NOc-0fnli2tTH4cKMkPF-zvjaY4Fn5ashDjAhd0NE0w&oe=6223A5CF' alt='authentication' height='400'>]
-[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274156832_2526766660790780_8910547945095875812_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=sViz_zkHnU8AX9C_b35&_nc_ht=scontent.faep8-2.fna&oh=00_AT9fofj2hNkOkeePhaWwbeRm8jKbohCWOddtRgw3qgJryQ&oe=6222F61F' alt='homepage' height='400'>]
-[<img src='' alt='homepage' height='400'>]
-[<img src='' alt='homepage' height='400'>]
-[<img src='' alt='homepage' height='400'>]
-[<img src='' alt='homepage' height='400'>]
-[<img src='' alt='homepage' height='400'>]
-[<img src='' alt='homepage' height='400'>]
+[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274289642_2526766970790749_1734874302885040430_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=RZly5wg5qmMAX_eTKpc&_nc_ht=scontent.faep8-2.fna&oh=00_AT-NOc-0fnli2tTH4cKMkPF-zvjaY4Fn5ashDjAhd0NE0w&oe=6223A5CF' alt='homepage' height='400'>]
+[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274156832_2526766660790780_8910547945095875812_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=sViz_zkHnU8AX9C_b35&_nc_ht=scontent.faep8-2.fna&oh=00_AT9fofj2hNkOkeePhaWwbeRm8jKbohCWOddtRgw3qgJryQ&oe=6222F61F' alt='authentication' height='400'>]
+[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274923797_2526767070790739_7097874055269911287_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=UeSW9Y557IIAX-7KDGl&_nc_ht=scontent.faep8-2.fna&oh=00_AT9nRvMw0n9e_obgvFMvDekgXR2QTPNKNJlZSguvfmXz0g&oe=62230FA1' alt='homepage auth' height='400'>]
+[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274873465_2526767200790726_4585472485530310432_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=tIVanwjUW4QAX_C3PEK&tn=yGg2BbImaRCRorcp&_nc_ht=scontent.faep8-2.fna&oh=00_AT8L5G6SvyGTIcMLFOnhg2Ewc7VqFSVgp3kTvfkAw6T_oQ&oe=622260E4' alt='search' height='400'>]
+[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274695192_2526766810790765_6754593031323965417_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=5ffhTw-7CKsAX8NxeQb&_nc_ht=scontent.faep8-2.fna&oh=00_AT_6ZoalN-x4M8VV2hAgUyygAiU7N4U7Qc5WN_8rtBYnFA&oe=6222B1AE' alt='diets' height='400'>]
+[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274682540_2526766714124108_773685382714922736_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=OqY_J4OngL4AX-uGZOz&tn=yGg2BbImaRCRorcp&_nc_ht=scontent.faep8-2.fna&oh=00_AT-Q7ZQNusrOcvP-maxA-ibFiTYMiEJXZai0a84Iryc96w&oe=62230E47' alt='dishes' height='400'>]
+[<img src='https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/274153306_2526766857457427_2767340410025012572_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=YNOq2-F5uBAAX_V_Vyw&_nc_ht=scontent.faep8-1.fna&oh=00_AT-sx76JRKaEu8dcDwspW3MejInXRkZEu-7jQOYhh9832g&oe=6223A9B6' alt='detail' height='400'>]
+[<img src='https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/273685734_2526766887457424_2168873213445956580_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=-fBeYXL0ufMAX9KGc26&_nc_ht=scontent.faep8-1.fna&oh=00_AT8PHhFq63TH5Zdi3Xq_mBu4B8CLmacE94I_XTKBytKaIg&oe=62233262' alt='form' height='400'>]
 
 
-![uhome](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274923797_2526767070790739_7097874055269911287_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=UeSW9Y557IIAX-7KDGl&_nc_ht=scontent.faep8-2.fna&oh=00_AT9nRvMw0n9e_obgvFMvDekgXR2QTPNKNJlZSguvfmXz0g&oe=62230FA1)
-![search](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274873465_2526767200790726_4585472485530310432_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=tIVanwjUW4QAX_C3PEK&tn=yGg2BbImaRCRorcp&_nc_ht=scontent.faep8-2.fna&oh=00_AT8L5G6SvyGTIcMLFOnhg2Ewc7VqFSVgp3kTvfkAw6T_oQ&oe=622260E4)
-![diets](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274695192_2526766810790765_6754593031323965417_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=5ffhTw-7CKsAX8NxeQb&_nc_ht=scontent.faep8-2.fna&oh=00_AT_6ZoalN-x4M8VV2hAgUyygAiU7N4U7Qc5WN_8rtBYnFA&oe=6222B1AE)
-![dishes](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274682540_2526766714124108_773685382714922736_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=OqY_J4OngL4AX-uGZOz&tn=yGg2BbImaRCRorcp&_nc_ht=scontent.faep8-2.fna&oh=00_AT-Q7ZQNusrOcvP-maxA-ibFiTYMiEJXZai0a84Iryc96w&oe=62230E47)
-![detail](https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/274153306_2526766857457427_2767340410025012572_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=YNOq2-F5uBAAX_V_Vyw&_nc_ht=scontent.faep8-1.fna&oh=00_AT-sx76JRKaEu8dcDwspW3MejInXRkZEu-7jQOYhh9832g&oe=6223A9B6)
-![form](https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/273685734_2526766887457424_2168873213445956580_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=-fBeYXL0ufMAX9KGc26&_nc_ht=scontent.faep8-1.fna&oh=00_AT8PHhFq63TH5Zdi3Xq_mBu4B8CLmacE94I_XTKBytKaIg&oe=62233262)
+
