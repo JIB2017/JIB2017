@@ -9,7 +9,7 @@ SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / H
 
 
 <h1> PERSONAL PROJECTS </h1>
-<h2> FOOD APP </h2>
+<h2> Food App </h2>
 
 
 [<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274873465_2526767200790726_4585472485530310432_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=tIVanwjUW4QAX_C3PEK&tn=yGg2BbImaRCRorcp&_nc_ht=scontent.faep8-2.fna&oh=00_AT8L5G6SvyGTIcMLFOnhg2Ewc7VqFSVgp3kTvfkAw6T_oQ&oe=622260E4' alt='search' width='400' height='400'>](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/274873465_2526767200790726_4585472485530310432_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=tIVanwjUW4QAX_C3PEK&tn=yGg2BbImaRCRorcp&_nc_ht=scontent.faep8-2.fna&oh=00_AT8L5G6SvyGTIcMLFOnhg2Ewc7VqFSVgp3kTvfkAw6T_oQ&oe=622260E4)
@@ -18,7 +18,7 @@ SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / H
 [<img src='https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/273685734_2526766887457424_2168873213445956580_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=-fBeYXL0ufMAX9KGc26&_nc_ht=scontent.faep8-1.fna&oh=00_AT8PHhFq63TH5Zdi3Xq_mBu4B8CLmacE94I_XTKBytKaIg&oe=62233262' alt='form' width='400' height='400'>](https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/273685734_2526766887457424_2168873213445956580_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=-fBeYXL0ufMAX9KGc26&_nc_ht=scontent.faep8-1.fna&oh=00_AT8PHhFq63TH5Zdi3Xq_mBu4B8CLmacE94I_XTKBytKaIg&oe=62233262)
 
 
-<h2> DOG APP </h2>
+<h2> Dogs App </h2>
 
 
 [<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/273550817_2526805680786878_5375097466081586078_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=gH14JKqdOa0AX9DAXds&_nc_oc=AQlW0LquRKX1OMU4Fo92EyqzyTRrIBiHVp7_g7BNWvOoYRhJJJzPS1LsRVDaF7VtvhA&_nc_ht=scontent.faep8-2.fna&oh=00_AT8nxJpqg2pYCA4-kI1DkKs-pCF46VKLkBgEEsZYewdbiQ&oe=622306E4' alt='landing' width='400' height='400'>](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/273550817_2526805680786878_5375097466081586078_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=gH14JKqdOa0AX9DAXds&_nc_oc=AQlW0LquRKX1OMU4Fo92EyqzyTRrIBiHVp7_g7BNWvOoYRhJJJzPS1LsRVDaF7VtvhA&_nc_ht=scontent.faep8-2.fna&oh=00_AT8nxJpqg2pYCA4-kI1DkKs-pCF46VKLkBgEEsZYewdbiQ&oe=622306E4)
