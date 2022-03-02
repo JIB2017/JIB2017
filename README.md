@@ -2,7 +2,7 @@
 <h1> Hi 👋, I'm Juan Ignacio </h1>
 <h2> I'm a Full-Stack Web Developer </h2>
 
-SKills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / HTML / CSS
+My skills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / HTML / CSS
 
 - 🌱 Learning: TYPESCRIPT 
 
