@@ -12,8 +12,8 @@ My skills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT 
 <h2> Food App </h2>
 
 
-[<img src='https://i.ibb.co/m9Z2KxV/Authentication.png' alt='search' width='400' height='400'>](https://i.ibb.co/m9Z2KxV/Authentication.png)
-[<img src='https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/275114464_2533189186815194_6664639310635325439_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEZoOaCmh_8ZY_l_oBfusi1t78nnd3t10q3vyed3e3XShJ2iPEleQT7A00i9WemwWHiv8dkCH_vJV0dIP9yDVaQ&_nc_ohc=yHSItf3zeXIAX83gGZy&_nc_ht=scontent.faep8-2.fna&oh=00_AT9T7yBRmIefJn54H2oquVzf3ywpPDwQBqxTjq1aMfhxiA&oe=622D588B' alt='authentication' width='400' height='400'>](https://scontent.faep8-2.fna.fbcdn.net/v/t39.30808-6/275114464_2533189186815194_6664639310635325439_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEZoOaCmh_8ZY_l_oBfusi1t78nnd3t10q3vyed3e3XShJ2iPEleQT7A00i9WemwWHiv8dkCH_vJV0dIP9yDVaQ&_nc_ohc=yHSItf3zeXIAX83gGZy&_nc_ht=scontent.faep8-2.fna&oh=00_AT9T7yBRmIefJn54H2oquVzf3ywpPDwQBqxTjq1aMfhxiA&oe=622D588B)
+[<img src='https://i.ibb.co/RY08hNd/Search-recipes.png' alt='search' width='400' height='400'>](https://i.ibb.co/RY08hNd/Search-recipes.png)
+[<img src='https://i.ibb.co/m9Z2KxV/Authentication.png' alt='authentication' width='400' height='400'>](https://i.ibb.co/m9Z2KxV/Authentication.png)
 [<img src='https://i.ibb.co/19C7JnL/Login-succesful.png' alt='homepage auth' width='400' height='400'>](https://i.ibb.co/19C7JnL/Login-succesful.png)
 [<img src='https://i.ibb.co/hmM2ZCN/Form.png' alt='form' width='400' height='400'>](https://i.ibb.co/hmM2ZCN/Form.png)
 
