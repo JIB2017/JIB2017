@@ -4,7 +4,9 @@
 
 My skills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / HTML / CSS
 
-| Encabezado 1 | Encabezado 2 |
+| ### Summize | ### GPT-3 Technology |
+| ![Summize](https://github.com/JIB2017/less-text/assets/31837873/6cf8a92c-9609-424a-8ceb-e062c3634e1d) | ![GPT3](https://github.com/JIB2017/GPT-3/assets/31837873/b7756d41-bd92-43a1-9e2e-70b19365a751) |
+| #### React, Redux, Tailwind | #### HTML, CSS, Javascript, React |
 |--------------|--------------|
 | Celda 1      | Celda 2      |
 
