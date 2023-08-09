@@ -4,6 +4,9 @@
 
 My skills: REACT / REDUX / NODE / EXPRESS / POSTGRESQL / SEQUELIZE / JAVASCRIPT / HTML / CSS
 
+| Encabezado 1 | Encabezado 2 |
+|--------------|--------------|
+| Celda 1      | Celda 2      |
 
 
 
