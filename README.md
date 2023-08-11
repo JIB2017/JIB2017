@@ -16,9 +16,9 @@ Detail oriented web developer with a deep interest in blockchain and AI technolo
 
 Here are some projects that I've worked on:
 
-- [Summize]([Link to Repo](https://github.com/JIB2017/less-text))
-- [Food Recipes]([Link to Repo](https://github.com/JIB2017/PI-Food-main))
-- [Dogs]([Link to Repo](https://github.com/JIB2017/PI-Dogs-main))
+- [Article Extractor and Summarizer]([Link to Repo](https://github.com/JIB2017/less-text))
+- [Perfect Recipes Revealed]([Link to Repo](https://github.com/JIB2017/PI-Food-main))
+- [The world of dogs]([Link to Repo](https://github.com/JIB2017/PI-Dogs-main))
 
 ## Skills
 <div style="display: flex; justify-content: center;">
@@ -45,4 +45,4 @@ Here are some projects that I've worked on:
 ## Contact
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/juan-ignacio-blacutt-web-design/)
-- E-mail: [blacuttjuan07@gmail.com]
+- E-mail: blacuttjuan07@gmail.com
