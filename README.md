@@ -2,7 +2,7 @@
 
 Detail oriented web developer with a deep interest in blockchain and AI technologies. Experience creating and implementing front and backend web applications.
 
-## Main Projects
+## Recent Projects
 
 | <h2>Sushi Restaurant</h2> | <h2>GPT-3 Technology</h2> |
 | ------------------------- | ------------------------- |
@@ -16,9 +16,9 @@ Detail oriented web developer with a deep interest in blockchain and AI technolo
 
 Here are some projects that I've worked on:
 
-- Article Extractor and Summarizer ([Link to Repo](https://github.com/JIB2017/less-text))
-- Perfect Recipes Revealed ([Link to Repo](https://github.com/JIB2017/PI-Food-main))
-- The world of dogs ([Link to Repo](https://github.com/JIB2017/PI-Dogs-main))
+- Article Extractor and Summarizer [Link to Repo](https://github.com/JIB2017/less-text)
+- Perfect Recipes Revealed [Link to Repo](https://github.com/JIB2017/PI-Food-main)
+- The world of dogs [Link to Repo](https://github.com/JIB2017/PI-Dogs-main)
 
 ## Skills
 <div style="display: flex; justify-content: center;">
