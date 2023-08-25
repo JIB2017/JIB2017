@@ -17,8 +17,8 @@ Detail oriented web developer with a deep interest in blockchain and AI technolo
 Here are some projects that I've worked on:
 
 - Article Extractor and Summarizer [Link to Repo](https://github.com/JIB2017/less-text)
-- Perfect Recipes Revealed [Link to Repo](https://github.com/JIB2017/PI-Food-main)
-- The world of dogs [Link to Repo](https://github.com/JIB2017/PI-Dogs-main)
+- Perfect Recipes [Link to Repo](https://github.com/JIB2017/PI-Food-main)
+- World of dogs [Link to Repo](https://github.com/JIB2017/PI-Dogs-main)
 
 ## Skills
 <div style="display: flex; justify-content: center;">
