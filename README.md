@@ -39,6 +39,7 @@ Here are some projects that I've worked on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40px" height="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40px" height="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40px" height="40px" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40px" height="40px" />
 </div>
 
 
