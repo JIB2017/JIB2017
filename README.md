@@ -1,6 +1,6 @@
 # Web Scraper Engineer
 
-Backend scraping engineer with experience in APIs and scraping systems that scale. Formation in cybersecurity and Web development.
+Backend scraping engineer specialized in scalable scraping systems. Formation in Web development and cybersecurity enthusiast.
 
 ## Recent Projects
 
@@ -16,7 +16,7 @@ Backend scraping engineer with experience in APIs and scraping systems that scal
 
 Here are some projects that I've worked on:
 
-- Movies Scraper [Link to Repo](https://github.com/JIB2017/Movies_scraper)
+- Movies Crawler system [Link to Repo](https://github.com/JIB2017/Movies_scraper)
 - Article Extractor and Summarizer [Link to Repo](https://github.com/JIB2017/less-text)
 
 ## Skills
